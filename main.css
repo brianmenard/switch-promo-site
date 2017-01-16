@@ -10,4 +10,14 @@ body{
 
 .left_content{
     border: thin solid red;
+    float:left;
+    height: 500px;
+    width: 600px;
+}
+
+.right_content{
+    border: thin solid red;
+    float:right;
+    height: 500px;
+    width: 600px;
 }
